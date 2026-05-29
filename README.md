@@ -74,13 +74,14 @@ Method A: Running via Terminal
  Run this command from your project root folder:
 
    On Windows (Command Prompt / PowerShell):
-    * **->** gradlew test
+  * **->** ./gradlew test
+
 
    On Mac / Linux:
-    * **->** chmod +x gradlew
+  * **->** chmod +x gradlew
      ./gradlew test
 
 After that you can see the test case results in your project build file
-    * **->** build/reports/tests/test/index.html
+  * **->** build/reports/tests/test/index.html
 
   Thank you!
