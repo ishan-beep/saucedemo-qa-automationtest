@@ -27,6 +27,7 @@ saucedemo-qa-automation/
 │       ├── Logintest.java
 │       └── CheckoutTest.java
 ├── build.gradle.kts                   # Project configuration and auto-scan build logic
+
 ---
 ## TestCase Scenario
 ##1)LoginTest
@@ -80,6 +81,6 @@ Method A: Running via Terminal
      ./gradlew test
 
 After that you can see the test case results in your project build file
-  **->** build/reports/tests/test/index.html
+    * **->** build/reports/tests/test/index.html
 
   Thank you!
