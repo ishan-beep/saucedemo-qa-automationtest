@@ -37,7 +37,6 @@ saucedemo-qa-automation/
   ->case 5 : tested with valid username and empty password
 
  2)CheckoutTest
- 
   ->case 1 : Testing the product is added to the cart
   ->case 2 : Complete checkout flow with valid details
   ->case 3 : Negative validation test for missing First Name
